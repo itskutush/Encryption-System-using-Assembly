@@ -23,12 +23,3 @@ There are many methods for encrypting data. The monoalphabetic cipher is among t
 This application uses this technique to encrypt and decrypt a character string.
 1. Both uppercase and lowercase characters are handled by the application.
 2. The result of this program is devoid of any spaces.
-
-## Flowchart
-
-
-![App Screenshot](https://ibb.co/yBdd2yB)
-
-
-
-
