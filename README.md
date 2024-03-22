@@ -13,7 +13,7 @@ machine code level.
 
 ## Software and Hardware Requirements
 • x86 emulator emu8086: EMU8086 is a popular and user-friendly integrated development 
-environment (IDE) and emulator for the x86 architecture assembly language.
+environment and emulator for the x86 architecture assembly language.
 
 • Intel 8086 Assembly Language: Intel 8086 assembly language is a low-level programming 
 language used for programming the Intel 8086 and Intel 8088 microprocessors.
@@ -23,3 +23,5 @@ There are many methods for encrypting data. The monoalphabetic cipher is among t
 This application uses this technique to encrypt and decrypt a character string.
 1. Both uppercase and lowercase characters are handled by the application.
 2. The result of this program is devoid of any spaces.
+
+
